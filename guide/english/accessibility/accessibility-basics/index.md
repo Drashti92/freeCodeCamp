@@ -185,3 +185,23 @@ In subsequent articles, I will touch on a number of more notch topics. A number 
 *   Is there a way for me to write content only screen-readers and other assistive technologies see?
 *   How do I make custom JavaScript components accessible?
 *   What tools are there, in addition to inclusive user testing, that can be used to develop the most robust and accessible experience for the largest group of users?
+
+//How to Test Accessebility
+Here, I will show the steps of how to test accessebility on a safari website and iOS devices. 
+
+To start accessebilit on any website :
+
+Opne the page supppose "https://www.apple.com" on safari.
+Press Command + F5 to start Voiceover
+Press Comman + F5 to stop Voiceover
+To select a page Control + Option
+To navigate into the page from outer Frame Starting from Navbar , Press Control + Option + Shift + DownArrowKey
+To start navigating through each element on the page, Press Control + Option + RightArrowKey
+Control + Option + RightArrowKey will navigate through the whole page. 
+To go back on previous element Press Control + Option + BackArrowKey. 
+
+
+
+
+
+
